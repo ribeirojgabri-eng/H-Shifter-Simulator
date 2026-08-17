@@ -289,7 +289,7 @@ pip install -r requirements.txt
 ## Running the Simulator
 
 ```
-python src/H-Shifter.py
+python src/Simulator.py
 ```
 
 The simulator opens a real-time Pygame interface displaying:
@@ -403,7 +403,7 @@ The project is being progressively developed toward a more modular and physicall
 H-Shifter-Simulator/
 │
 ├── src/
-│   └── H-Shifter.py
+│   └── Simulator.py
 │
 ├── docs/
 │   ├── architecture.md
